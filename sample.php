@@ -1,0 +1,19 @@
+<?php
+
+declare(ticks=1);
+//unregister_tick_function('coolFunction'); 
+include_once 'debug.php';
+	$a = 'name1';
+	$b = 'name2';
+	if(1==2){
+		$a;
+	}else{
+		$b;
+	}
+	$c = $a . $b;
+	$d = $e = "hello";
+	strlen($d);
+	$coolFunction=function(){
+		echo $str="cool";	
+	};
+

@@ -1,0 +1,19 @@
+<?php
+
+//declare(ticks=1);
+unregister_tick_function('rajeshFunction'); 
+include_once 'debug.php';
+	$a = 'foo';
+	$b = 'bar';
+	if(1==2){
+		$sf;
+	}else{
+		$fsd;
+	}
+	$c = $a . $b;
+	$d = $e = "hello";
+	strlen($d);
+	$rajeshFunction=function(){
+		echo $str="cool";	
+	};
+
