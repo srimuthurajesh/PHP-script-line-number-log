@@ -3,6 +3,8 @@
 declare(ticks=1);
 //unregister_tick_function('coolFunction'); 
 include_once 'debug.php';
+
+/*just dummy program to log the line number*/
 	$a = 'name1';
 	$b = 'name2';
 	if(1==2){
