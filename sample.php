@@ -1,7 +1,6 @@
 <?php
 
 declare(ticks=1);
-//unregister_tick_function('coolFunction'); 
 include_once 'debug.php';
 
 /*just dummy program to log the line number*/
